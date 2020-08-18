@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://i.postimg.cc/Dy3YqVLm/recipe.jpg');
+  background-repeat: no-repeat;
+  background-size: 2000px 950px;
 }
 
 code {
